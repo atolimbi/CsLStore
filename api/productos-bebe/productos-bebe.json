@@ -1,0 +1,14 @@
+{
+    "bebe": [
+        {
+            "id": 1,
+            "nombre": "Camisol",
+            "precio": 50.000
+        },
+        {
+            "id": 2,
+            "nombre": "Babero",
+            "precio": 20.000
+        }
+    ]
+}
